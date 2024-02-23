@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.box{
+  height: 10rem;
+  width: 30rem;
+  margin: 1rem;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color:rgb(90, 88, 86);
+}
+
